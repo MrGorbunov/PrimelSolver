@@ -7,3 +7,5 @@ This program is meant to produce the optimal Primel algorithm.
 This project is heavily inspried by the 3b1b video on [the optimal worlde stategy](https://www.youtube.com/watch?v=v68zYyaEmEA),
 and ~~has been~~ will hopefully be made collaboratively by high achieving students that use all their time efficiently.
 
+Prime number list supplied by [funwithnum3ers](http://benvitale-funwithnum3ers.blogspot.com/2011/02/5-digit-prime-numbers.html).
+
